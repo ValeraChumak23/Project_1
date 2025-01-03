@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Reflection;
 using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
 using DocumentFormat.OpenXml.Presentation;
@@ -10,7 +11,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        string filePath = @"C:\Users\tiger\OneDrive\Рабочий стол\Универ\Альтернативный_экз\Матрица.xlsx"; // Путь к файлу с матрицей смежности
+        string directoryPath = System.IO.Path.GetFullPath(System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"..\..\.."));
+        string filePath = System.IO.Path.Combine(directoryPath,"Матрица.xlsx"); // Путь к файлу с матрицей смежности
 
         // Считывание матрицы из файла
         int[,] adjacencyMatrix = ReadAdjacencyMatrixFromExcel(filePath);
