@@ -1,0 +1,25 @@
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\finding the optimal route.exe
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\finding the optimal route.deps.json
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\finding the optimal route.runtimeconfig.json
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\finding the optimal route.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\finding the optimal route.pdb
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.AssemblyInfoInputs.cache
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.AssemblyInfo.cs
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.csproj.CoreCompileInputs.cache
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\refint\finding the optimal route.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.pdb
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.genruntimeconfig.cache
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\ref\finding the optimal route.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\RBush.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.csproj.AssemblyReference.cache
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding .05E53EDE.Up2Date
+C:\Users\tiger\OneDrive\Рабочий стол\Универ\C# изучение\Finding_optimal_route\Finding_optimal_route\obj\Debug\net8.0\finding the optimal route.sourcelink.json
